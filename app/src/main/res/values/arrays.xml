@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="ld_activityScreenTitles">
+        <item>Inicio</item>
+        <item>Test Vocacional</item>
+        <item>Universidades</item>
+        <item>Resultados</item>
+        <item>Ubicación</item>
+        <item>Nosotros</item>
+        <item>Cerrar Sesión</item>
+    </string-array>
+
+    <array name="ld_activityScreenIcons">
+        <item>@drawable/house</item>
+        <item>@drawable/test</item>
+        <item>@drawable/banks</item>
+        <item>@drawable/file</item>
+        <item>@drawable/map</item>
+        <item>@drawable/team</item>
+        <item>@drawable/exit</item>
+    </array>
+
+</resources>

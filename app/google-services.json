@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "542959059567",
+    "firebase_url": "https://futuroprofesional-84238.firebaseio.com",
+    "project_id": "futuroprofesional-84238",
+    "storage_bucket": "futuroprofesional-84238.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542959059567:android:b129b6c7aa67d027",
+        "android_client_info": {
+          "package_name": "com.create.rsfae.futuroprofesional"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542959059567-hq7rssqa4u4oof5drbtmh1i33oaauhdg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.create.rsfae.futuroprofesional",
+            "certificate_hash": "e14dcb07417d6b02674fc1fa255b0d8036295e4c"
+          }
+        },
+        {
+          "client_id": "542959059567-6fbbv0n5k2f2rddoci1i7v40nod9k3l5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdWU7BRwO2WM3yXUgYP0-wtetp9YrkBog"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542959059567-6fbbv0n5k2f2rddoci1i7v40nod9k3l5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

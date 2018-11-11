@@ -1,0 +1,19 @@
+<resources>
+    <!-- -->
+    <string name="app_name">Futuro\nProfesional</string>
+    <!-- Login Activity -->
+    <string name="txt_usuario">Usuario:</string>
+    <string name="txt_contraseña">Contraseña:</string>
+    <string name="txt_olvidastes_contraseña">Olvidastes tu contraseña?</string>
+    <string name="btn_entrar">Entrar</string>
+    <string name="txt_crear_cuenta">No tienes una cuenta? Crear cuenta</string>
+    <string name="minimo_caracteres">Minimo de la contraseña 6 caracteres</string>
+    <string name="auth_failed"> Usuario y/o Contraseña incorrectos</string>
+    <!-- Registro Activity -->
+    <!-- Olvide Contraseña Activity -->
+
+    <string name="account_balance">Account Balance</string>
+    <string name="balance_currency">$</string>
+    <string name="balance_amount">524.99</string>
+
+</resources>
